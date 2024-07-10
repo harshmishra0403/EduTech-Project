@@ -7,7 +7,6 @@ EduTech is a fully functional Educational platform designed to enhance the learn
   - [Front-end](#front-end)
   - [Back-end](#back-end)
   - [Database](#database)
-  - [Architecture Diagram](#architecture-diagram)
 - [API Design](#api-design)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -63,11 +62,6 @@ The back-end, built using NodeJS and ExpressJS, provides APIs for the front-end 
 
 ### Database
 The database for EduTech is built using MongoDB, a NoSQL database that provides flexible and scalable data storage. It stores course content, user data, and other relevant information.
-
-### Architecture Diagram
-Below is a high-level diagram illustrating the architecture of the EduTech EdTech platform:
-
-![Architecture Diagram](path-to-diagram)
 
 ## API Design
 EduTech's API is designed following the REST architectural style. It is implemented using Node.js and Express.js, using JSON for data exchange and standard HTTP request methods like GET, POST, PUT, and DELETE.
