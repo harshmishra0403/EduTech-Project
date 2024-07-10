@@ -77,7 +77,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](l
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/NAYAN-KUMAR-SINGH/Ed-Tech-Project
+   git clone 
    ```
 2. Navigate to the project directory:
    ```sh
