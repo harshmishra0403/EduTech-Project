@@ -77,11 +77,11 @@ For detailed API documentation and endpoints, refer to the [API Documentation](l
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/harshmishra0403/EduTech-Project
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Ed-Tech-Project
+   cd Edu-Tech-Project
    ```
 3. Install dependencies:
    ```sh
